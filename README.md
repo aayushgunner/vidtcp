@@ -80,9 +80,3 @@ Press `q` in the receiver window to quit.
 - Add FPS control or time sync
 - Support multiple clients
 - Add TLS encryption for secure transfer
-
----
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.

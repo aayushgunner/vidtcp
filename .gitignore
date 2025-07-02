@@ -1,0 +1,29 @@
+# Build artifacts
+/build/
+/CMakeFiles/
+/Makefile
+/CMakeCache.txt
+/compile_commands.json
+/*.o
+/*.obj
+/*.so
+/*.exe
+/*.out
+/app
+
+# Editor backups
+*~
+*.swp
+*.swo
+*.bak
+
+# Logs and temporary files
+*.log
+
+# VSCode or other IDE files
+.vscode/
+.idea/
+
+# Neovim LSP state (optional)
+.cache/
+.nvimlog
